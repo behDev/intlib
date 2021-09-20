@@ -44,5 +44,5 @@ integer random: 7
 ```
 output2:
 ```
-integer random: 7
+integer random: 9
 ```

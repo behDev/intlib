@@ -18,7 +18,7 @@ cp intlib.h /../YOUR_FOLDER_PROJECT
 ```
 
 ### Usage
-[Click for redirect to usage page](https://github.com/behDev/blob/master/USAGE.md)
+[Click for redirect to usage page](https://github.com/behDev/intlib/blob/master/USAGE.md)
 
 ## About
 please if showing error, going to issus page or you can editing files and pull request.
