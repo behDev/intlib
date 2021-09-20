@@ -38,12 +38,15 @@ int intarraylen(int array[]){
 
 	while(wh == 0){
 		if(array[lenarray] > 1070000000 && array[lenarray] < 1080000000){
-			wh = 1;
-			lenarray--;
-			return lenarray;
-			break;
+			lenarray--; return lenarray; wh = 1; break;
 		}else{
 			lenarray++;
 		}
 	}
+}
+
+int intrandom(int min, int max){
+	srand(time(0));
+	int random = (rand() % (max - min + 1)) + min;
+	return random;
 }
