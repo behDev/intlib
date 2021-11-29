@@ -6,8 +6,7 @@ Int lib a library for c language. this library for you get length you integer.
 ### Linux
 ```
 git clone https://github.com/behDev/intlib
-cd intlib
-cp intlib.h /../YOUR_FOLDER_PROJECT
+make
 ```
 
 ## Add
