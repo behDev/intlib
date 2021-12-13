@@ -1,6 +1,6 @@
 # Int lib
 ## What is int lib?
-Int lib a library for c language. this library for you get length you integer.
+Int lib a library for c language. this library geting your integer length.
 
 ## Clone
 ### Linux
